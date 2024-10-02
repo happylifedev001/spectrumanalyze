@@ -1,0 +1,16 @@
+prefix=c:/
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+sysconfdir=c:/etc
+localstatedir=c:/var
+confdir=${sysconfdir}/fonts
+cachedir=${localstatedir}/cache/fontconfig
+
+Name: Fontconfig
+Description: Font configuration and customization library
+Version: 2.14.0
+Requires: freetype2 >=  21.0.15
+Libs: -L${libdir} -lfontconfig
+Libs.private: -L${libdir} -lexpat
+Cflags: -I${includedir}

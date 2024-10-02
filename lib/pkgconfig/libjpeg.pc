@@ -1,0 +1,9 @@
+prefix=c:/
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: libjpeg
+Description: gdk-pixbuf: jpeg
+Version: 2.1.2
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

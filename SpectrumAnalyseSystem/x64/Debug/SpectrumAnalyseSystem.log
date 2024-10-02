@@ -1,0 +1,51 @@
+﻿  common.c
+  dft.c
+  dftWindow.c
+  draw.c
+  fft.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'dftWindow.c')
+  
+  Nelsonspec.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(733,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(735,42): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(1432,22): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(1432,29): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(601,10): warning C4101: 'apnd': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(630,13): warning C4101: 'exitg1': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(629,16): warning C4101: 'unnamed_idx_1': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(596,10): warning C4101: 'd': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(1554,21): warning C4101: 'L': unreferenced local variable
+  reassignSpectrogramWindow.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'reassignSpectrogramWindow.c')
+  
+  rt_nonfinite.c
+  spectrogramParametersWindow.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'spectrogramParametersWindow.c')
+  
+  spectrogramWindow.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'spectrogramWindow.c')
+  
+  spectralParametersWindow.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'spectralParametersWindow.c')
+  
+  spectrum.c
+  SpectrumAnalyseSystem.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\SpectrumAnalyseSystem.c(6,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  utils.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'utils.c')
+  
+  waveFormSubWindow.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'waveFormSubWindow.c')
+  
+  waveFormWindow.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.h(16,10): error C1083: Cannot open include file: 'sndfile.h': No such file or directory
+  (compiling source file 'waveFormWindow.c')
+  
+  Generating Code...

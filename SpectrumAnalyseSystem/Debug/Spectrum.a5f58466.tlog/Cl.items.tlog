@@ -1,0 +1,16 @@
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\common.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\common.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\dft.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\dft.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\dftWindow.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\dftWindow.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\draw.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\draw.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\fft.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\fft.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\Nelsonspec.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\reassignSpectrogramWindow.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\reassignSpectrogramWindow.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\rt_nonfinite.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\rt_nonfinite.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\spectrogramParametersWindow.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\spectrogramParametersWindow.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\spectrogramWindow.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\spectrogramWindow.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\spectralParametersWindow.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\spectralParametersWindow.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\spectrum.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\spectrum.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\SpectrumAnalyseSystem.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\SpectrumAnalyseSystem.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\utils.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\waveFormSubWindow.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\waveFormSubWindow.obj
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\waveFormWindow.c;D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Debug\waveFormWindow.obj

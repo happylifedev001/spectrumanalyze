@@ -1,0 +1,51 @@
+﻿  common.c
+  dft.c
+  dftWindow.c
+  draw.c
+  fft.c
+  Nelsonspec.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(733,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(735,42): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(1432,22): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(1432,29): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(601,10): warning C4101: 'apnd': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(630,13): warning C4101: 'exitg1': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(629,16): warning C4101: 'unnamed_idx_1': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(596,10): warning C4101: 'd': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\Nelsonspec.c(1554,21): warning C4101: 'L': unreferenced local variable
+  reassignSpectrogramWindow.c
+  rt_nonfinite.c
+  spectrogramParametersWindow.c
+  spectrogramWindow.c
+  spectralParametersWindow.c
+  spectrum.c
+  SpectrumAnalyseSystem.c
+  utils.c
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2326,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2341,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2549,55): warning C4244: '=': conversion from 'double' to 'unsigned long', possible loss of data
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2302,23): warning C4101: 'xinc': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2298,22): warning C4101: 'm': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2300,16): warning C4101: 'tempflt': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2299,16): warning C4101: 'a': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2298,25): warning C4101: 'k': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2311,12): warning C4101: 'fmax': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2311,9): warning C4101: 'y': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2308,16): warning C4101: 'xii': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2306,12): warning C4101: 'fdj': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2306,9): warning C4101: 'f': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2302,35): warning C4101: 'zinc': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2302,19): warning C4101: 'fq': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2298,31): warning C4101: 'index': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2298,28): warning C4101: 'l': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2298,19): warning C4101: 'j': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2311,18): warning C4101: 'inc': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2308,11): warning C4101: 'xri': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2302,29): warning C4101: 'yinc': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2309,10): warning C4101: 'str': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2306,17): warning C4101: 'fdk': unreferenced local variable
+D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\SpectrumAnalyseSystem\utils.c(2581,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  waveFormSubWindow.c
+  waveFormWindow.c
+  Generating Code...
+  SpectrumAnalyseSystem.vcxproj -> D:\work\20240500-GTK-SAS\send\SpectrumAnalyseSystem\Debug\SpectrumAnalyseSystem.exe
